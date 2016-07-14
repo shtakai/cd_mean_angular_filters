@@ -1,0 +1,20 @@
+{
+  "name": "cd_mean_angular_filters",
+  "homepage": "https://github.com/shtakai/cd_mean_angular_filters",
+  "authors": [
+    "Alyson Takai <shtakai@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7"
+  }
+}
